@@ -1,0 +1,10 @@
+div#chart div{
+    display: inline-block;
+    background-color: #a0d0ff;
+    border: 5px solid #b0c0d0;
+    padding: 3px;
+    border-radius: 10px;
+}
+div.error {
+    color: red;
+}
